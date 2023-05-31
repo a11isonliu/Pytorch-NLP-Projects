@@ -1,5 +1,5 @@
 # Pytorch-NLP-Projects
-This repository contains natural language processing projects I have done using Pytorch.  For many of these projects I have collaborated with Simon Julien and Allison Liu to create the Jupyter Notebooks.  Each folder has an additional README explaining (in detail) the jupyter notebooks and topics that are covered.
+This repository contains natural language processing projects I have done using Pytorch.  For many of these projects I have collaborated with Jackson Curry and Simon Julien to create the Jupyter Notebooks.  Each folder has an additional README explaining (in detail) the jupyter notebooks and topics that are covered.
 
 ## Below I have some visual highlights from each of the folders:
 
